@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amitpal2454
-- 👀 I’m interested in building ML model
+- 👀 I love to develope AI solution for automotive
 - 🌱 I’m currently learning depth of data science
+-     Ask me about Data Science, Machine Learning and AI
 - 📫 How to reach me -amitpal2454@gmail.com
 
 <!---
